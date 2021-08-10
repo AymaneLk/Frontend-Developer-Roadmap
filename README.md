@@ -5,7 +5,7 @@ Before I go ahead and list down the resources, please know that the roadmap and 
 ## ROADMAP:
 ![image](https://user-images.githubusercontent.com/24440328/128903976-0668655f-0ba0-4dc4-9d33-25c7c97d2fc0.png)
 
-# RESSOURCES:
+# RESOURCES:
 
 ## Learn HTML:
 HTML provides the skeleton of a webpage. Learn the basics of HTML; learn the basic tags, learn how to write semantic HTML, understand basic SEO, learn how to divide your pages into sections that will help you style them. 
